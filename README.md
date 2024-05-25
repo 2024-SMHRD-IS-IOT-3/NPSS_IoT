@@ -1,5 +1,5 @@
 # 무인점포 에너지 절약 시스템 (팀명 : NPSS)
- <img width="200" alt="NPSS_logo3" src="https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/6188122c-8cb7-487a-9ac2-05378d0fb306"/>
+ <img width="400" alt="NPSS_logo3" src="https://github.com/2024-SMHRD-IS-IOT-3/NPSS/assets/165890322/6188122c-8cb7-487a-9ac2-05378d0fb306"/>
  
 #### 💡 자세한 설명은 여기로  👉👉  <a href="https://github.com/2024-SMHRD-IS-IOT-3/NPSS" target='_blank'> github</a>
 <br/>
