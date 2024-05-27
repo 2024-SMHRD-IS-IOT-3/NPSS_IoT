@@ -34,7 +34,7 @@
 #### 3. 태양광
 ![태양광 회로도](https://github.com/2024-SMHRD-IS-IOT-3/NPSS_IoT/assets/165890322/1ad9228b-414f-49e3-b8e8-a08afe18791c)
 
-#### 4. 자동 분류 쓰레기통 (아두이노 나노)
+#### 4. 자동 분류 쓰레기통 (아두이노 나노 / 카메라는 라즈베리파이에 연결)
 <img width="650" alt="쓰레기통 회로도" src="https://github.com/2024-SMHRD-IS-IOT-3/NPSS_IoT/assets/165890322/d5e5dc0d-c8db-44e0-9348-3fe238193f2c">
 <br/>
 
